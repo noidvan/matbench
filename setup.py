@@ -29,7 +29,7 @@ setup(
     package_data={"matbench": ["*.json"]},
     install_requires=[
         "matminer>=0.7.4",
-        "scipy>=1.9.0",
+        "scipy>=1.5.2",
         "monty>=2022.4.26",
         "scikit-learn==0.23.2",
     ],
