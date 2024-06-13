@@ -31,6 +31,6 @@ setup(
         "matminer>=0.7.4",
         "scipy>=1.9.0",
         "monty>=2022.4.26",
-        "scikit-learn>=1.0.1",
+        "scikit-learn==0.22.2",
     ],
 )
